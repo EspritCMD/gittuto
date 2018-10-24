@@ -5,6 +5,9 @@
 int somme(int a , int b ){
 return a+b ;
 }
+void writename(int name ){
+return name ;
+}
 
 int main()
 {
